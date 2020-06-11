@@ -1,4 +1,4 @@
-package com.apress.prospring5.ch3;
+package com.apress.prospring5.ch3.decoupled;
 
 public interface MessageRenderer {
   void render();
